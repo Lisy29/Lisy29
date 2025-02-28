@@ -2,7 +2,7 @@
 
 ## 💻 Data Analyst| AI Developer | 🌱 Aprendiz Constante
 
-![Banner](https://i.imgur.com/PLACEHOLDER.png)
+![Banner]([https://i.imgur.com/PLACEHOLDER.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzc3NqNzJtcjZ2MTM3aWRjZnh1bXBqemIzNWc0NnB6OXZldmk4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.webp))
 
 ### 👩‍💻 Sobre mí
 
