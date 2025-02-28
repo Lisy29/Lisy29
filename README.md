@@ -33,8 +33,9 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 
 ### 🎮 Mi patrón de PACMAN en contribuciones
 
-Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar el pacman? 😊
-<img src= [https://github.com/Lisy29/Lisy29/blob/main/pacman-image.png](https://github.com/Lisy29/Lisy29/blob/main/images/tetris_github_2025.gif)/>
+Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar el pacman? 😊  
+![Mi gráfico de contribuciones](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/pacman-image.gif)
+
 
 
 ### 📫 Contacta conmigo!
