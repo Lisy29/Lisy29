@@ -31,10 +31,11 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical" alt="Lenguajes más usados" />
 
-### 🎮 Mi patrón de PACMAN en contribuciones
+### 🎮 Mi patrón de tetris en contribuciones
 
-Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar el pacman? 😊
-<img src= https://github.com/Lisy29/Lisy29/blob/main/pacman-image.png/>
+![Mi gráfico de contribuciones Pac-Man 2024](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2025.gif)
+
+![Mi gráfico de contribuciones Pac-Man 2025](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2024.gif)
 
 
 ### 📫 Contacta conmigo!
