@@ -31,9 +31,9 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical" alt="Lenguajes más usados" />
 
-### 🎮 Mi patrón de Tetris en contribuciones
+### 🎮 Mi patrón de PACMAN en contribuciones
 
-Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar las piezas de Tetris? 😊
+Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar el pacman? 😊
 
 ### 📫 Contacta conmigo!
 [![Mi perfil de LinkedIn](https://mi-imagen-de-banner.jpg)](https://www.linkedin.com/in/lisy-vel/)
