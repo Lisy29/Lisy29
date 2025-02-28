@@ -69,7 +69,8 @@ def create_tetris_gif(username, year, contributions, output_path):
     image_width = width * cell_size + legend_width
     image_height = height * cell_size + 40  # Increased to accommodate legend and credits bar
 
-    colors = ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39']
+    # Colores neón
+    colors = ['#FF10F0', '#FFFF00', '#39FF14', '#00FFFF']  # Rosa neón, amarillo neón, verde neón, azul neón
     background_color = '#0e0e0e'  # Dark background color
 
     frames = []
@@ -133,5 +134,3 @@ if __name__ == "__main__":
         print("GIF created successfully!")
     except Exception as e:
         print(e)
-
-        
