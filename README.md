@@ -35,9 +35,8 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 
 Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar las piezas de Tetris? 😊
 
-### 📫 Contacto
-
-- LinkedIn: [\[tu perfil de LinkedIn\]](https://www.linkedin.com/in/lisy-vel/)
+### 📫 Contacta conmigo!
+[![Mi perfil de LinkedIn](https://mi-imagen-de-banner.jpg)](https://www.linkedin.com/in/lisy-vel/)
 
 
 ---
