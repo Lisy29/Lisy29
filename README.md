@@ -34,6 +34,8 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 ### 🎮 Mi patrón de PACMAN en contribuciones
 
 Mi gráfico de contribuciones tiene un patrón especial. ¿Puedes encontrar el pacman? 😊
+<img src= https://github.com/Lisy29/Lisy29/blob/main/pacman-image.png/>
+
 
 ### 📫 Contacta conmigo!
 [![Mi perfil de LinkedIn](https://mi-imagen-de-banner.jpg)](https://www.linkedin.com/in/lisy-vel/)
