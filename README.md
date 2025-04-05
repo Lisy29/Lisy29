@@ -9,9 +9,8 @@
 
 Soy una apasionada Analista de datos con background en salud, con interés en inteligencia artificial y rodearme de buena gente.
 
-- 🔭 Actualmente estoy trabajando en un proyecto sobre interviews donde el postulante ensaya con un chatbot sus posibles preguntas respecto a un perfil determinado relacionado al area tecnologica.
 - 🌱 Estoy aprendiendo Power Bi y Tableu, Machine Learning (ML), Blockchain e Inglès.
-- 👯 Busco colaborar en proyectos de tecnològico donde se use el anàlisis de datos, el ML y el enfoque en salud. 
+- 👯 Busco colaborar en proyectos de tecnològico donde se use el anàlisis de datos, el ML que tengan como fin mejorar la sociedad. 
 - 💬 Pregúntame como empezar en este mundo si no sabes nada de el.
 
 ### 🛠️ Tecnologías y Herramientas
