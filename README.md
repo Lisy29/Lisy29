@@ -31,7 +31,6 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 ### 🎮 Mi patrón de tetris en contribuciones
 ![Tetris GitHub 2026](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2026.gif)
 ![Tetris GitHub 2025](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2025.gif)
-![Tetris GitHub 2024](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2024.gif)
 
 
 ### 📫 Contacta conmigo!
