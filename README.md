@@ -27,13 +27,13 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api?username=Lisy29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lisy29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api?username=Lisy29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="400" />
+  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lisy29&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
 
 ### 🎮 Mi patrón de tetris en contribuciones
 ![Tetris GitHub 2026](https://raw.githubusercontent.com/Lisy29/Lisy29/main/images/tetris_github_2026.gif)
