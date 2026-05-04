@@ -7,11 +7,18 @@
 
 ### 👩‍💻 Sobre mí
 
-Soy una apasionada Analista de datos con background en salud, con interés en inteligencia artificial y rodearme de buena gente.
+### 👩‍💻 Sobre mí
 
-- 🌱 Estoy aprendiendo Power Bi y Tableu, Machine Learning (ML), Blockchain e Inglès.
-- 👯 Busco colaborar en proyectos de tecnològico donde se use el anàlisis de datos, el ML que tengan como fin mejorar la sociedad. 
-- 💬 Pregúntame como empezar en este mundo si no sabes nada de el.
+Trabajaba en salud, me di cuenta que pagaban mal, y mi conciencia me dijo "Hagamos lo que que queriamos siempre, además pagan mejor". Plot twist: los primeros meses fueron puro sufrir con SQL y llorar con Python. Pero entre error y error le agarré cariño al parche.
+
+Hoy llevo un año diseñando pipelines ETL, trasteando en Power BI, domando Spark y construyendo vainas con IA que antes me parecían de película. ¿Que si ya gano mejor? Ahí vamos. ¿Que si volvería atrás? Ni por el chocorramo 🍫 (adivina de dónde soy)
+
+-  Automatizo todo lo que se deje quieto
+-  Tinto y debug es mi combo del día
+-  Busco proyectos open source con impacto real
+-  🇨🇴 Parcera echada pa'lante aunque el camino sea culebrero
+-  Vivo por Microsoft, aunque exploro siempre otras opciones
+-  Si estás pensando en dar el salto a tech, escríbeme — te cuento lo que nadie te dice
 
 ### 🛠️ Tecnologías y Herramientas
 
