@@ -28,7 +28,7 @@ Soy una apasionada Analista de datos con background en salud, con interés en in
 
 <p align="center">
   <img src="https://github-readme-stats-eight-blush-48.vercel.app/api?username=Lisy29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="400" />
-  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="400" />
+  <img src="https://github-readme-stats-eight-blush-48.vercel.app/api/top-langs/?username=Lisy29&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="300" />
 </p>
 
 <p align="center">
