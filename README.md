@@ -7,8 +7,6 @@
 
 ### 👩‍💻 Sobre mí
 
-### 👩‍💻 Sobre mí
-
 Trabajaba en salud, me di cuenta que pagaban mal, y mi conciencia me dijo "Hagamos lo que que queriamos siempre, además pagan mejor". Plot twist: los primeros meses fueron puro sufrir con SQL y llorar con Python. Pero entre error y error le agarré cariño al parche.
 
 Hoy llevo un año diseñando pipelines ETL, trasteando en Power BI, domando Spark y construyendo vainas con IA que antes me parecían de película. ¿Que si ya gano mejor? Ahí vamos. ¿Que si volvería atrás? Ni por el chocorramo 🍫 (adivina de dónde soy)
